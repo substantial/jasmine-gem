@@ -22,7 +22,7 @@ module Jasmine
 
 
     def spec_path
-      "/__spec__"
+      "/spec/javascripts"
     end
 
     def root_path
